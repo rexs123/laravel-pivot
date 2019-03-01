@@ -39,6 +39,11 @@
             "Fico7489\\Laravel\\Pivot\\Tests\\": "tests/"
         }
     },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.2"
+        }
+    }
     "minimum-stability": "dev",
     "prefer-stable": true
 }
